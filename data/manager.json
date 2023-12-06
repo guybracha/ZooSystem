@@ -1,0 +1,12 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 40,
+    "gender": "Male",
+    "employeeID": "MGR123",
+    "department": "Zoo Management",
+    "salary": 60000.00
+  }
+  // Add more manager objects here if needed, each separated by a comma
+]
